@@ -8,7 +8,7 @@ import lombok.*;
 @Getter
 @Setter
 @Builder
-public class EnderecoDTO {
+public class EnderecoDTOResponse {
 
 
     private Long id;
